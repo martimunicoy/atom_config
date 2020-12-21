@@ -1,0 +1,28 @@
+"*":
+  "atom-material-ui":
+    colors:
+      genAccent: true
+      paintCursor: true
+    tabs:
+      compactTabs: true
+    ui:
+      panelContrast: true
+      panelShadows: true
+  "autocomplete-python":
+    useKite: false
+  core:
+    projectHome: "/Users/martimunicoy/repos"
+    telemetryConsent: "no"
+  editor:
+    fontFamily: "Source Code Pro"
+    showIndentGuide: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "f7c677f3-c664-49ea-80ca-59e0dd67689f"
+  "linter-flake8":
+    executablePath: "/Users/martimunicoy/miniconda3/envs/atom/bin/flake8"
+  "linter-ui-default":
+    panelHeight: 179
+    showPanel: true
+  welcome:
+    showOnStartup: false
