@@ -1,0 +1,57 @@
+"*":
+  "atom-material-ui":
+    colors:
+      abaseColor: "#ffd54f"
+      accentColor: "#a28832"
+      genAccent: true
+      paintCursor: true
+      predefinedColor: "Amber"
+    fonts: {}
+    tabs:
+      compactTabs: true
+    ui:
+      panelContrast: true
+  "atom-mypy":
+    incrementalMode: true
+    mypyCommand: "/Users/martimunicoy/environments/Atom/bin/python -m mypy --ignore-missing-imports"
+  "auto-highlight":
+    highlightSelectionMaxNumberOfWord: 1
+  "autocomplete-python":
+    useKite: false
+  core:
+    openEmptyEditorOnStart: false
+    projectHome: "/Users/martimunicoy/repos"
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax-dark"
+    ]
+  editor:
+    fontFamily: "Source Code Pro"
+    invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "c82eda33-93c6-448e-930a-4b1fbf25901e"
+  "highlight-line": {}
+  "ide-python":
+    python: "/Users/martimunicoy/environments/Atom/bin/python"
+  "linter-flake8":
+    executablePath: "/Users/martimunicoy/environments/Atom/bin/flake8"
+  "linter-ui-default":
+    panelHeight: 141
+  minimap: {}
+  "nord-atom-syntax":
+    accessibility: {}
+  "nord-atom-ui": {}
+  "predawn-ui":
+    colourlessIcons: false
+  "python-autopep8":
+    autopep8Path: "/Users/martimunicoy/environments/Atom/bin/autopep8"
+    formatOnSave: true
+    maxLineLength: 80
+  welcome:
+    showOnStartup: false
