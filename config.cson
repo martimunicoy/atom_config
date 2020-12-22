@@ -13,10 +13,11 @@
       panelContrast: true
   "atom-mypy":
     incrementalMode: true
-    mypyCommand: "/Users/martimunicoy/environments/Atom/bin/python -m mypy --ignore-missing-imports"
+    mypyCommand: "/Users/martimunicoy/miniconda3/envs/atom/bin/python -m mypy --ignore-missing-imports"
   "auto-highlight":
     highlightSelectionMaxNumberOfWord: 1
   "autocomplete-python":
+    pythonPaths: "/Users/martimunicoy/miniconda3/envs/atom/bin/python"
     useKite: false
   core:
     openEmptyEditorOnStart: false
@@ -38,9 +39,9 @@
     userId: "c82eda33-93c6-448e-930a-4b1fbf25901e"
   "highlight-line": {}
   "ide-python":
-    python: "/Users/martimunicoy/environments/Atom/bin/python"
+    python: "/Users/martimunicoy/miniconda3/envs/atom/bin/python"
   "linter-flake8":
-    executablePath: "/Users/martimunicoy/environments/Atom/bin/flake8"
+    executablePath: "/Users/martimunicoy/miniconda3/envs/atom/bin/flake8"
   "linter-ui-default":
     panelHeight: 141
   minimap: {}
@@ -50,7 +51,7 @@
   "predawn-ui":
     colourlessIcons: false
   "python-autopep8":
-    autopep8Path: "/Users/martimunicoy/environments/Atom/bin/autopep8"
+    autopep8Path: "/Library/Frameworks/Python.framework/Versions/3.7/bin/autopep8"
     formatOnSave: true
     maxLineLength: 80
   welcome:
