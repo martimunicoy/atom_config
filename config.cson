@@ -42,8 +42,15 @@
     python: "/Users/martimunicoy/miniconda3/envs/atom/bin/python"
   "linter-flake8":
     executablePath: "/Users/martimunicoy/miniconda3/envs/atom/bin/flake8"
+    ignoreErrorCodes: [
+      "E501 E128 W503 D"
+    ]
+    projectConfigFile: [
+      ".flake8"
+    ]
   "linter-ui-default":
     panelHeight: 141
+    showPanel: true
   minimap: {}
   "nord-atom-syntax":
     accessibility: {}
